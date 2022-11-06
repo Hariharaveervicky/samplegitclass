@@ -13,5 +13,14 @@ System.out.println("tool3");
 }
 	public void Tool4() {
 System.out.println("tool4");
+	}
+public void jeep() {
+System.out.println("taskm1");
+	}
+	public void car() {
+System.out.println("taskm2");
+	}
+	public void bike() {
+System.out.println("taskm3");
 }
 }
